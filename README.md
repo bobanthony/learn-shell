@@ -1,3 +1,1 @@
-# learn-shell
-learning shell scripting automation
-we will learn shell script topics
+automation of shell scripting will going to learn
