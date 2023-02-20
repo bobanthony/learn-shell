@@ -5,4 +5,8 @@ conditions
 exit status
 input
 variables
+redirectors
 functions
+exit values
+echo
+commands
