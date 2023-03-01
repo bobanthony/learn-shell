@@ -6,6 +6,7 @@ xyz() {
   echo All Arguments - $*
   echo No of Arguments - $#
   echo value of a - $a
+  a=500
   b=50
 }
 
