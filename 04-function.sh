@@ -5,8 +5,9 @@ xyz() {
   echo second Argument -- $2
   echo All Arguments - $*
   echo No of Arguments - $#
-  echo value of a - $a
   a=500
+  echo value of a - $a
+
   b=50
 }
 
